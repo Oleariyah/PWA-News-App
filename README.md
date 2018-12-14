@@ -1,9 +1,7 @@
 # PWA-News-App
 
 To View: 
-
 run yarn install, 
-
 then run yarn serve.
 
 
