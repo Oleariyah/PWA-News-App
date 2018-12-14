@@ -1,0 +1,23 @@
+{
+  "name": "theMATTER",
+  "short_name": "theMATTER",
+  "theme_color": "rgb(229,45,39)",
+  "background_color": "rgb(229,45,39)",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    
+    {
+      "src": "images/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
